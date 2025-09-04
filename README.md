@@ -1,17 +1,13 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
-
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+*Hi! I'm Nicholas Wei. I'm a senior at MIT (Class of 2026) studying 6-3: Computer Science and Engineering. This is my repository for the class 6.104: Software Design.*
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+1. I enjoy doing nature photography. Here's my [Instagram]([url](https://www.instagram.com/catull.us64/?hl=en)) where I post some of my photos.
+2. I can identify any orchid species in the United States and Canada.
+3. I sing in an acapella group at MIT. We're called [Syncopasian]([url](https://www.youtube.com/c/mitsyncopasian)) and we sing songs in both English and East Asian languages like Chinese, Japanese, and Korean!
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
-
+Below is a photo I took last spring of an orchid species native to Massachusetts, _Neottia bifolia_. Its flowers are only 2-3 millimeters across!
+![native orchid from massachusetts](https://inaturalist-open-data.s3.amazonaws.com/photos/379445997/medium.jpg)
 
 # Table of Contents
 [Link to Assignment 1](assignments/assignment1.md)

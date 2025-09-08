@@ -119,7 +119,7 @@ I did not select this because listening in on conversations is invasive and mayb
 #### Proposed Features
 1. **Social Quest System**: *A daily or weekly challenge system that assigns users specific social interaction tasks with increasing difficulty levels: users earn XP and badges, all of which motivate them to step out of their social comfort zone. They could also accumulate usage streaks.*
 2. **Progress Tracking and Social Analytics**: *Visual dashboards showing users their social interaction patterns could help reflect progress over time. It could also be potentially useful data for therapists.*
-3. **Fallback/Reassurances**: *It would be important to make sure not to penalize users for not being sometimes. It might also be good to provide useful mental health phone numbers or hotlines.*
+3. **Fallback/Reassurances**: *It would be important to make sure not to penalize users for not finishing quests, etc. It might also be good to provide useful mental health phone numbers or hotlines.*
 
 ### Problem 2: Integrating Task Deadlines
 *Over my past three years at MIT, I've had professors who use a variety of platforms to post announcements, assignments, and grades (eg. Canvas, Github, Catsoop). A homework tracker that integrates assignments from multiple platforms could help centralize task management for students.*

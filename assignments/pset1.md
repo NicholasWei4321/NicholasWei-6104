@@ -246,15 +246,19 @@ actions
     issuePass(airlineID: airlineID, flightID: String, passenger: Passenger, ticketNumber: String): BoardingPass:
         requires airlineID is valid, flightID exists in the set of Flights associated with the specified Airline and the passenger has purchased a ticket for the plane (reflected in ticketNumber)
         effects create an active BoardingPass with the specified passenger and flightID. The boarding pass will therefore contain all the information about a flight associated with that particular flightID. The checkedIn flag should be initialized to False.
+
     updateFlight(airlineID, flightID, gate: String, boardingTime: Time, departureTime: Time): Flight
         requires airlineID is valid, flightID exists in the set of Flights associated with the specified Airline 
         effects update the information for the Flight associated with the flightID. All boarding passes with that flightID will then be able to reflect the modified information.
+
     updatePass(airlineID: String, passID: String, seatNumber: String, boardingGroup: String): BoardingPass
         requires airlineID is valid, the BoardingPass with the specified passID has a flightID that exists in the set of Flights associated with the specified Airline 
         effects: update the boarding information in the BoardingPass accordingly.
+
     checkIn(flightID: String, passID: String): BoardingPass
         requires that the passID is a valid passID
         effects sets the checkedIn flag for the BoardingPass associated with the passID to True
+        
     scanPass(flightID: String, passID: String): True/False
         requires that flightID be valid
         effects: successful scan if the BoardingPass associated with the passID contains the matching flightID and the checkedIn Flag is True, otherwise, failed scan.

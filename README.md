@@ -10,4 +10,5 @@ Below is a photo I took last spring of an orchid species native to Massachusetts
 ![native orchid from massachusetts](https://inaturalist-open-data.s3.amazonaws.com/photos/379445997/medium.jpg)
 
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
+[Assignment 1](assignments/assignment1.md)
+[Problem Set 1](assignments/pset1.md)

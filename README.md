@@ -14,4 +14,4 @@ Below is a photo I took last spring of an orchid species native to Massachusetts
 
 [Problem Set 1](assignments/pset1.md)
 
-[Problem Set 1](assignments/pset2.md)
+[Problem Set 2](assignments/pset2.md)
